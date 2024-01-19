@@ -1,0 +1,309 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "brand": "Coach",
+            "brandTitle": "coach",
+            "productCategory": "bag",
+            "productName": "handbag",
+            "title": "coach-bag",
+            "size": {
+                "mini": 0,
+               "medium": 5,
+               "large": 0
+                
+            },
+            "color": "beige",
+            "price": 835,
+            "discountOffer": false,
+            "discount": 0,
+            "image": [
+                 "assets/images/products/coach/handbag-one-1.jpg",
+                 "assets/images/products/coach/handbag-one-2.jpg",
+                 "assets/images/products/coach/handbag-one-3.jpg"
+            ],
+            "description": "Çiyindən asma dəri Willow çantası"
+        }
+        ,
+        {
+            "id": 2,
+            "brand": "Coach",
+            "brandTitle": "coach",
+            "productCategory": "shoes",
+            "productName": "sport-shoes",
+            "title": "coach-shoes",
+            "size": {
+                "36" : 1,
+                "36.5" : 0,
+                "37" : 2,
+                "37.5" : 0,
+                "38" : 2,
+                "38.5" : 0,
+                "39": 0,
+                "39.5" : 0,
+                "40" : 1,
+                "40.5" : 0,
+                "41" : 0,
+                "41.5" : 0,
+                "42" : 0,
+                "42.5" : 0,
+                "43": 0,
+                "43.5" : 0,
+                "44" : 0,
+                "44.5" : 0,
+                "45" : 0
+                
+
+            },
+            "color": "black",
+            "price": 430,
+            "discountOffer": false,
+            "discount": 0,
+            "image": [
+                "assets/images/products/coach/sport-shoes-two-1.jpg",
+                "assets/images/products/coach/sport-shoes-tw0-2.jpg"
+            ],
+            "description": "Qara rəngli iplərlə bağlanma yarımboğaz krossovka"
+
+        },
+
+        {
+            "id": 3,
+            "brand": "Coach",
+            "brandTitle": "coach",
+            "productCategory": "bag",
+            "productName": "handbag",
+            "title": "coach-bag",
+            "size": {
+                "mini": 0,
+               "medium": 0,
+               "large": 3
+                
+            },
+            "color": "white",
+            "price": 980,
+            "discountOffer": true,
+            "discount": 294,
+            "image": [
+                 "assets/images/products/coach/handbag-three-1.jpg",
+                 "assets/images/products/coach/handbag-three-2.jpg",
+                 "assets/images/products/coach/handbag-three-3.jpg"
+            ],
+            "description": "Ağ rəngli dəri aşırma çantası"
+        },
+        {
+            "id": 4,
+            "brand": "Coach",
+            "brandTitle": "coach",
+            "productCategory": "bag",
+            "productName": "crossbody-bag",
+            "title": "coach-bag",
+            "size": {
+                "mini": 2,
+               "medium": 0,
+               "large": 0
+                
+            },
+            "color": "black",
+            "price": 690,
+            "discountOffer": true,
+            "discount": 100,
+            "image": [
+                 "assets/images/products/coach/crossbody-bag-four-1.jpg",
+                 "assets/images/products/coach/crossbody-bag-four-2.jpg",
+                 "assets/images/products/coach/crossbody-bag-four-3.jpg"
+            ],
+            "description": "Qara rəngli dənəvari dəridən hazırlanmış çarpaz çiyin çantası"
+        },
+
+        {
+            "id": 5,
+            "brand": "Lancome",
+            "brandTitle": "lancome",
+            "productCategory": "cosmetics",
+            "productName": "perfume-set",
+            "title": "lancome-cosmetics",
+            "count": 10,
+            "color": "pink",
+            "price": 215,
+            "discountOffer": false,
+            "discount": 0,
+            "image": [
+                 "assets/images/products/lancome/perfume-set-one-1.jpg"
+            ],
+            "description": "Idole dəsti"
+        },
+
+        {
+            "id": 6,
+            "brand": "Lancome",
+            "brandTitle": "lancome",
+            "productCategory": "cosmetics",
+            "productName": "perfume-set",
+            "title": "lancome-cosmetics",
+            "count": 5,
+            "color": "pink",
+            "price": 225,
+            "discountOffer": false,
+            "discount": 0,
+            "image": [
+                 "assets/images/products/lancome/perfume-set-two-1.jpg",
+                 "assets/images/products/lancome/perfume-set-two-2.jpg"
+                 
+            ],
+            "description": "La Vie Est Belle dəsti"
+        },
+        {
+            "id": 7,
+            "brand": "Marc Jacobs",
+            "brandTitle": "marc-jacobs",
+            "productCategory": "bag",
+            "productName": "wallet",
+            "title": "marc-jacobs-bag",
+            "size": {
+                "mini": 0,
+               "medium": 0,
+               "large": 4
+                
+            },
+            "color": "black",
+            "price": 435,
+            "discountOffer": false,
+            "discount": 0,
+            "image": [
+                 "assets/images/products/marc-jacobs/wallet-one-1.jpg",
+                 "assets/images/products/marc-jacobs/wallet-one-2.jpg",
+                 "assets/images/products/marc-jacobs/wallet-one-3.jpg"
+            ],
+            "description": "Loqo detallı portmone"
+        },
+        {
+            "id": 8,
+            "brand": "Marc Jacobs",
+            "brandTitle": "marc-jacobs",
+            "productCategory": "clothing",
+            "productName": "jacket",
+            "title": "marc-jacobs-clothing",
+            "size": {
+                "xs": 2,
+                "s" :2,
+                "m": 1,
+                "l": 1,
+                "xl":0                
+            },
+            "color": "black",
+            "price": 2055,
+            "discountOffer": true,
+            "discount": 150,
+            "image": [
+                 "assets/images/products/marc-jacobs/jacket-two-1.jpg",
+                 "assets/images/products/marc-jacobs/jacket-two-2.jpg",
+                 "assets/images/products/marc-jacobs/jacket-two-3.jpg"
+            ],
+            "description": "Qısaldılmış uzunqol gödəkçə"
+        },
+        {
+            "id": 9,
+            "brand": "Marc Jacobs",
+            "brandTitle": "marc-jacobs",
+            "productCategory": "clothing",
+            "productName": "t-shirt",
+            "title": "marc-jacobs-clothing",
+            "size": {
+                "xs": 5,
+                "s" :3,
+                "m": 4,
+                "l": 0,
+                "xl":0                
+            },
+
+            "color": "white",
+            "price": 425,
+            "discountOffer": false,
+            "discount": 0,
+            "image": [
+                 "assets/images/products/marc-jacobs/t-shirt-three-1.jpg",
+                 "assets/images/products/marc-jacobs/t-shirt-three-2.jpg",
+                 "assets/images/products/marc-jacobs/t-shirt-three-3.jpg"
+            ],
+            "description": "Böyük ölçülü loqo printli qısaqol T-shirt"
+        },
+ 
+        {
+            "id": 10,
+            "brand": "Michael Kors",
+            "brandTitle": "michael-kors",
+            "productCategory": "clothing",
+            "productName": "jacket",
+            "title": "michael-kors-clothing",
+            "size": {
+                "xs": 1,
+                "s" :1,
+                "m": 2,
+                "l": 1,
+                "xl":1                
+            },
+
+            "color": "black",
+            "price": 1030,
+            "discountOffer": true,
+            "discount": 90,
+            "image": [
+                 "assets/images/products/michael.kors/jacket-one-1.jpg",
+                 "assets/images/products/michael.kors/jacket-one-2.jpg",
+                 "assets/images/products/michael.kors/jacket-one-3.jpg"
+            ],
+            "description": "Qara rəngli qısa dəri gödəkçə"
+        },
+        
+        {
+            "id": 11,
+            "brand": "Michael Kors",
+            "brandTitle": "michael-kors",
+            "productCategory": "accessories",
+            "productName": "watch",
+            "title": "michael-kors-accessories",
+            "count": 4,
+
+            "color": "brown",
+            "price": 380,
+            "discountOffer": false,
+            "discount": 0,
+            "image": [
+                 "assets/images/products/michael.kors/watch-two-1.jpg",
+                 "assets/images/products/michael.kors/watch-two-2.jpg"
+                
+            ],
+            "description": "Kristalla bəzədilmiş Pyper qol saatı"
+        },
+
+        {
+            "id": 12,
+            "brand": "Michael Kors",
+            "brandTitle": "michael-kors",
+            "productCategory": "bag",
+            "productName": "wallet",
+            "title": "michael-kors-bag",
+            "size": {
+                "mini": 3,
+               "medium": 0,
+               "large": 0
+                
+            },
+
+            "color": "green",
+            "price": 215,
+            "discountOffer": false,
+            "discount": 0,
+            "image": [
+                 "assets/images/products/michael.kors/wallet-three-1.jpg",
+                 "assets/images/products/michael.kors/wallet-three-2.jpg",
+                 "assets/images/products/michael.kors/wallet-three-3.jpg"
+                
+            ],
+            "description": "Loqo detallı dəri portmone"
+        }
+
+
+    ]
+}
